@@ -26,7 +26,11 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0,
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "fg_attempted" : 0,
             "fg_made" : 0,
             "pat_attempts" : 0,
@@ -54,7 +58,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 86,
           "pass_blocking": 61
@@ -80,7 +86,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 32,
           "pass_blocking": 70
@@ -106,7 +114,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 49,
           "pass_blocking": 49
@@ -132,7 +142,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 64,
           "pass_blocking": 39
@@ -158,7 +170,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 54,
           "pass_blocking": 65
@@ -184,7 +198,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 55,
           "pass_blocking": 35
@@ -210,7 +226,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 60,
           "pass_blocking": 60
@@ -236,7 +254,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 30,
           "pass_blocking": 38
@@ -262,7 +282,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 61,
           "pass_blocking": 52
@@ -288,7 +310,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 42,
           "pass_blocking": 63
@@ -316,7 +340,11 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0,
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "punts" : 0,
             "punt_yards" : 0
           }
@@ -342,7 +370,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 95,
           "decision_making": 50
@@ -368,7 +398,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 54,
           "decision_making": 55
@@ -394,7 +426,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 34,
           "decision_making": 41
@@ -420,7 +454,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 50,
           "vision": 58
@@ -446,7 +482,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 30,
           "vision": 48
@@ -472,7 +510,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 40,
           "vision": 78
@@ -498,7 +538,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 39,
           "vision": 39
@@ -524,7 +566,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 55,
           "route_running": 45,
@@ -551,7 +595,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 42,
           "route_running": 61,
@@ -578,7 +624,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 47,
           "route_running": 60,
@@ -605,7 +653,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 65,
           "route_running": 51
@@ -631,7 +681,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 71,
           "route_running": 63
@@ -657,7 +709,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 36,
           "route_running": 30
@@ -683,7 +737,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 54,
           "route_running": 51
@@ -709,7 +765,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 41,
           "route_running": 39
@@ -735,7 +793,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 30,
           "route_running": 69
@@ -752,7 +812,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -770,7 +831,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -788,7 +850,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -806,7 +869,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -824,7 +888,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -842,7 +907,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -860,7 +926,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -878,7 +945,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -896,7 +964,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -914,7 +983,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -932,7 +1002,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -950,7 +1021,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -968,7 +1040,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -986,7 +1059,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1004,7 +1078,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1023,7 +1098,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1042,7 +1118,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1061,7 +1138,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1080,7 +1158,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1099,7 +1178,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1118,7 +1198,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1137,7 +1218,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1156,7 +1238,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1174,7 +1257,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1192,7 +1276,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1210,7 +1295,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1228,7 +1314,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -1264,7 +1351,11 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0,
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "fg_attempted" : 0,
             "fg_made" : 0,
             "pat_attempts" : 0,
@@ -1292,7 +1383,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 36,
           "pass_blocking": 79
@@ -1318,7 +1411,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 69,
           "pass_blocking": 77
@@ -1344,7 +1439,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 90,
           "pass_blocking": 63
@@ -1370,7 +1467,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 51,
           "pass_blocking": 73
@@ -1396,7 +1495,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 78,
           "pass_blocking": 56
@@ -1422,7 +1523,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 52,
           "pass_blocking": 66
@@ -1448,7 +1551,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 71,
           "pass_blocking": 50
@@ -1474,7 +1579,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 30,
           "pass_blocking": 41
@@ -1500,7 +1607,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 60,
           "pass_blocking": 44
@@ -1526,7 +1635,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "run_blocking": 30,
           "pass_blocking": 39
@@ -1554,7 +1665,11 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0,
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "punts" : 0,
             "punt_yards" : 0
           }
@@ -1580,7 +1695,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 37,
           "decision_making": 47
@@ -1606,7 +1723,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 30,
           "decision_making": 34
@@ -1632,7 +1751,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "passing": 43,
           "decision_making": 33
@@ -1658,7 +1779,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 78,
           "vision": 42
@@ -1684,7 +1807,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 37,
           "vision": 68
@@ -1710,7 +1835,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 45,
           "vision": 34
@@ -1736,7 +1863,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "elusiveness": 42,
           "vision": 52
@@ -1762,7 +1891,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 61,
           "route_running": 56,
@@ -1789,7 +1920,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 48,
           "route_running": 53,
@@ -1816,7 +1949,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 64,
           "route_running": 66,
@@ -1843,7 +1978,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 49,
           "route_running": 72
@@ -1869,7 +2006,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 52,
           "route_running": 60
@@ -1895,7 +2034,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 38,
           "route_running": 54
@@ -1921,7 +2062,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 45,
           "route_running": 49
@@ -1947,7 +2090,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 48,
           "route_running": 45
@@ -1973,7 +2118,9 @@
             "receptions": 0,
             "receiving_yards": 0,
             "targets": 0,
-            "touchdowns": 0
+            "passing_touchdowns": 0,
+            "receiving_touchdowns": 0,
+            "rushing_touchdowns": 0
           },
           "hands": 30,
           "route_running": 37
@@ -1990,7 +2137,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2008,7 +2156,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2026,7 +2175,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2044,7 +2194,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2062,7 +2213,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2080,7 +2232,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2098,7 +2251,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2116,7 +2270,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2134,7 +2289,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2152,7 +2308,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2170,7 +2327,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2188,7 +2346,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2206,7 +2365,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2224,7 +2384,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2242,7 +2403,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2261,7 +2423,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2280,7 +2443,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2299,7 +2463,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2318,7 +2483,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2337,7 +2503,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2356,7 +2523,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2375,7 +2543,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2394,7 +2563,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2412,7 +2582,8 @@
           "fatigue": 0,
           "in_game": true,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2430,7 +2601,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2448,7 +2620,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0
@@ -2466,7 +2639,8 @@
           "fatigue": 0,
           "in_game": false,
           "stats": {
-            "tackles": 0,
+            "solo_tackles": 0,
+            "assisted_tackles": 0,
             "sacks": 0,
             "interceptions": 0,
             "forced_fumbles": 0

@@ -61,6 +61,12 @@ class Team:
         self.name = name
         self.offense = [Player(p) for p in offense]
         self.defense = [Player(p) for p in defense]
+        # Team-level stats for special teams events
+        self.team_stats = {
+            "kickoff_return_touchdowns": 0,
+            "blocked_kicks": 0,
+            "blocked_punts": 0
+        }
 
     def get_offense(self, side="offense"):
         players = getattr(self, side)
